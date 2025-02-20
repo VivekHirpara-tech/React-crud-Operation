@@ -1,0 +1,18 @@
+/* styles.css */
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden; /* Prevents horizontal scroll */
+}
+
+.container-fluid {
+    max-width: 100%;
+    padding: 0; /* Remove extra padding */
+}
+
+.card {
+    margin: 0 auto; /* Center align the card */
+    width: 100%; /* Make it full width */
+    max-width: 95%; /* Adjust for better appearance */
+}
